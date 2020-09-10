@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=shahiddhariwala)
+
+I'm a Full-Stack Developer working in Mumbai, India.
+
+* 🏢 I'm currently working at Zotalabs.
+
+* ⚙️ I use daily: .js, .html, .css, .svg, .psd, .ai
+
+* 🌍 I'm mostly active within the React Community
+
+* 🌱 Learning all about Open Source and React.
