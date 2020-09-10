@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Github stats](https://github-readme-stats.vercel.app/api?username=shahiddhariwala)
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shahiddhariwala)
+
 
 I'm a Full-Stack Developer working in Mumbai, India.
 
