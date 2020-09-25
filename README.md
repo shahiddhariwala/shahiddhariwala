@@ -22,7 +22,7 @@ I'm a Full-Stack Developer working in Mumbai, India.
 
 * 🏢 I'm currently working at Zotalabs.
 
-* ⚙️ I use daily: .js, .html, .css, .svg, .psd, .ai
+* ⚙️ I use daily: .js, .jsx, .ts, .html, .css, .svg, .psd, .ai
 
 * 🌍 I'm mostly active within the React Community
 
