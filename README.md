@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shahiddhariwala)
 -->
 
-
+![](https://komarev.com/ghpvc/?username=shahiddhariwala&style=plastic)
 
 I'm a Full-Stack Developer working in Mumbai, India.
 
