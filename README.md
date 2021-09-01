@@ -1,29 +1,46 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**shahiddhariwala/shahiddhariwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I am Shahid Dhariwala! </h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Github stats](https://github-readme-stats.vercel.app/api?username=shahiddhariwala)
--->
+<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200">
 
 ![](https://komarev.com/ghpvc/?username=shahiddhariwala&style=plastic)
 
-I'm a Full-Stack Developer working in Mumbai, India.
+* <p><em>Software Engineer at <a href="https://www.whitehatjr.com/">Whitehat Jr</a></em></p>
 
-* 🏢 I'm currently working at Zotalabs.
 
-* ⚙️ I use daily: .js, .jsx, .ts, .html, .css, .svg, .psd, .ai
+* 💻 I am a techie who loves to explore different technologies and tech stacks. My major fields of interests Include Javascript, OOPs, ReactJs and WebRTC.
 
-* 🌍 I'm mostly active within the React Community
+* 📚 I am intrigued how technologies and its solutions are helping the world as well as the society and would really like to contribute my part to it.
 
-* 🌱 Learning all about Open Source and React.
+* ⚡ Fun fact: Reading Webtoons and Manga are some of my hobbie.
+
+---
+
+
+
+## Reach out to me 📝
+
+[<img align="left" alt="pdx97 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
+<br />
+
+---
+
+
+
+##  Github-stats 🛠
+
+
+
+[![Shahid's github stats](https://github-readme-stats.vercel.app/api?username=shahiddhariwala&&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
+
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiddhariwala&layout=compact&card_width=440)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+---
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/shahiddhariwala
