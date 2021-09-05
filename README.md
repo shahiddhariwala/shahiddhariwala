@@ -21,7 +21,7 @@
 
 ## Reach out to me 📝
 
-[<img align="left" alt="pdx97 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
+[<img align="left" alt="shahiddhariwala | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
 <br />
 
 ---
