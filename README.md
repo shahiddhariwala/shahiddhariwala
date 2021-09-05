@@ -2,7 +2,7 @@
 
 <h2>I am Shahid Dhariwala! </h2>
 
-<img align='right' src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e473grfl3ktcswakx503hwm0ip33hwhoj1l59s5l5nj&rid=giphy.gif" width="300" height="200">
+<img align='right' src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47oojzc34savt76tk4pc5tyolp9mstagzhk2a0kxin&rid=giphy.gif&ct=g/" width="300" height="200">
 
 
 ![](https://komarev.com/ghpvc/?username=shahiddhariwala&style=plastic)
