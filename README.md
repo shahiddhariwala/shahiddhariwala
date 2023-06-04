@@ -33,7 +33,7 @@
 
 
 
-[![Shahid's github stats](https://github-readme-stats.vercel.app/api?username=shahiddhariwala&&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
+<!-- [![Shahid's github stats](https://github-readme-stats.vercel.app/api?username=shahiddhariwala&&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   -->
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiddhariwala&layout=compact&card_width=440)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
