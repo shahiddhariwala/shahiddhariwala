@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shahiddhariwala&style=plastic)
 
-* <p><em>Software Engineer at <a href="https://www.whitehatjr.com/">Whitehat Jr</a></em></p>
+* <p><em>Senior Software Engineer</em></p>
 
 
 * 💻 I am a techie who loves to explore different technologies and tech stacks. My major fields of interests Include Javascript, OOPs, ReactJs and WebRTC.
