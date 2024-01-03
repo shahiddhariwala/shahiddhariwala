@@ -25,17 +25,6 @@
 [<img align="left" alt="shahiddhariwala | LinkedIn" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpydWGVe6P-vFpxWlM9a4-Zi1iI041pdlfFA&usqp=CAU"/>][linkedin]
 <br />
 
----
-
-
-
-##  Github-stats 🛠
-
-
-
-<!-- [![Shahid's github stats](https://github-readme-stats.vercel.app/api?username=shahiddhariwala&&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   -->
-
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahiddhariwala&layout=compact&card_width=440)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ---
